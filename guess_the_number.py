@@ -7,6 +7,7 @@ Author:
         Juliette Forest
 """
 
+print __doc__
 
 import random
 def guess():
